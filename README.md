@@ -27,9 +27,10 @@ n2=int(input())
 n1=temp
 n1=n2
 n2=temp
-print("the swapped values are")
+print("the swapped values are", a,b)
 ```
 ## OUTPUT:
+![output](<swapping screenshot.png>)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
